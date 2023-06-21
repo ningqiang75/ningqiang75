@@ -42,5 +42,5 @@ I'm John, a highly skilled Data Science Bootcamp graduate with expertise in data
 
 Feel free to reach out to me through the following channels:
 
-- [LinkedIn](linkedin.com/in/ningqiang75)
+- [LinkedIn](https://www.linkedin.com/in/ningqiang75)
 - Email: ningqiang75@gmail.com
