@@ -31,13 +31,6 @@ I'm John, a highly skilled Data Science Bootcamp graduate with expertise in data
 - M.Sc. Programme and Project Management, University of Warwick, Coventry, UK (2019–2020)
 - M.Eng. Chemical Engineering, University of Chinese Academy of Sciences, Beijing, China (2015–2019)
 
-## 📖 Publications
-
-- Published on Catalysis Science & Technology (DOI: 10.1039/C9CY01672D) 2019
-- Published on New Journal of Chemistry (DOI: 10.1039/C9NJ03194D) 2019
-- Published on Journal of Fuel Chemistry and Technology (DOI: 10.1016/s1872-5813(18)30059-8) 2018
-- Published on Journal of Catalysis (DOI: 10.1016/j.jcat.2018.02.019) 2018
-
 ## 📫 Let's Connect!
 
 Feel free to reach out to me through the following channels:
